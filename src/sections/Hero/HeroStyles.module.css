@@ -4,13 +4,13 @@
     justify-content: center;
     gap: 20px;
     text-align: center;
-    height: 130dvh;
+    height: 115dvh;
     min-height: 500px;
 
     .hero {
         max-width: 200px;
         border-radius: 100px;
-        border: 1px solid goldenrod;
+        border: 2px solid goldenrod;
     }
 
     span {

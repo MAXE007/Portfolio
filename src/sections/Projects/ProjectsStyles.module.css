@@ -5,9 +5,11 @@
 
     img {
         max-width: 250px;
+        max-height: 250px;
         align-self: center;
         background-color: var(--project-card-bg);
         border-radius: 20px;
+        border: 2px solid goldenrod;
     }
 
     a {
@@ -28,7 +30,9 @@
     flex-direction: column;
     align-items: center;
     gap: 30px;
+
 }
+
 
 
 @media (width >= 800px ) {
